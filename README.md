@@ -3,6 +3,7 @@
 ### 🎓 About me
 
 🔭 I’m currently working as PHP and Front-end UX Developer and working on Laravel.
+
 🌱 I’m currently learning React
 
 <!--
