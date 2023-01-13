@@ -2,9 +2,9 @@
 
 ### 🎓 About me
 
-• I’m currently a junior pursuing my Bachelors in Computer Science & Engineering
+• I’m currently working as PHP and Front-end UX Developer.
 
-• DevOps and Cloud Enthusiast.
+• Learning React and Laravel.
 
 <!--
 **varshaghanghas/varshaghanghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
