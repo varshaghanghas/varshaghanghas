@@ -1,4 +1,4 @@
-### Hi there 👋 I'm <a href="https://www.linkedin.com/in/varshaghanghas/">Varsha</a>
+### Hi there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm <a href="https://www.linkedin.com/in/varshaghanghas/">Varsha</a>
 
 ### 🎓 About me
 
