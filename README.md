@@ -1,4 +1,4 @@
-### Hi there 👋<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="width: 20px; display: inline-block;" data-target="animated-image.originalImage"> I'm <a href="https://www.linkedin.com/in/varshaghanghas/">Varsha</a>
+### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="width: 20px; display: inline-block;" data-target="animated-image.originalImage"> I'm <a href="https://www.linkedin.com/in/varshaghanghas/">Varsha</a>
 
 ### 🎓 About me
 
@@ -10,7 +10,7 @@
 **varshaghanghas/varshaghanghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 👋
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
