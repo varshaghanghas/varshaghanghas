@@ -2,9 +2,8 @@
 
 ### 🎓 About me
 
-• I’m currently working as PHP and Front-end UX Developer.
-
-• Learning React and Laravel.
+🔭 I’m currently working as PHP and Front-end UX Developer and working on Laravel.
+🌱 I’m currently learning React
 
 <!--
 **varshaghanghas/varshaghanghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
