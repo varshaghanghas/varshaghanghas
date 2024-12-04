@@ -6,7 +6,7 @@
 
 🔭 I’m currently working as PHP and Front-end UX Developer and working on Laravel.
 
-🌱 I’m currently learning React
+🌱 I’m currently learning Swift
 
 <!--
 **varshaghanghas/varshaghanghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
