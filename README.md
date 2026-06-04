@@ -1,25 +1,55 @@
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/raw/master/Assets/Hi.gif" style="width: 20px; display: inline-block;" data-target="animated-image.originalImage"> I'm <a href="https://www.linkedin.com/in/varshaghanghas/">Varsha</a> 👩‍💻
+<div align="center">
 
- <a href="mailto:varsha.ghanghas07@gmail.com">✉️</a>
+# Hi 👋, I'm Varsha Rani 
 
-### 🎓 About me
+### DevOps Engineer in Progress | PHP Developer | Cloud Enthusiast
+#### Building skills in Cloud, Automation, Infrastructure as Code, and CI/CD
 
-🔭 I’m currently working as PHP and Front-end UX Developer and working on Laravel.
+</div>
 
-🌱 I’m currently learning DevOps...
+## 🚀 About Me
+I am a **Full-stack Developer** with 9+ years of experience in **PHP**, **Laravel**, and **Web Development**. Currently, I am expanding my expertise into **Cloud** and **DevOps Engineering** by building hands-on projects and learning modern infrastructure technologies.
 
-<!--
-**varshaghanghas/varshaghanghas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://www.linkedin.com/in/varshaghanghas" target="_blank" rel="nofollow">✉️
- </a>
-Here are some ideas to get you started:
-- 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💼 Background in **PHP, Laravel**, and **Web Development**
+- 🌱 Currently learning **Cloud and DevOps Engineering**
+- 📚 Continuously improving **Linux** and **Infrastructure** skills
+- ☁️ Exploring **AWS, Docker, Kubernetes, Terraform**, and **GitHub Actions**
+- 🎯 Goal: Transition into a **Cloud / DevOps Engineer** role
+
+---
+
+## 🚀 **Current Learning Roadmap**
+
+![My Skills](https://skillicons.dev/icons?i=linux,git,bash,jenkins,docker,kubernetes,ansible,terraform,aws,grafana)
+
+---
+
+## 🛠️ Tech Stack
+
+### **Languages & Frameworks**
+![My Skills](https://skillicons.dev/icons?i=js,html,css,php,laravel,postman,nodejs,github)
+
+### **Database**
+![My Skills](https://skillicons.dev/icons?i=mysql,sqlite)
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/varshaghanghas/)
+[![Email](https://img.shields.io/badge/Email-varsha.ghanghas07@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:varsha.ghanghas07@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+
+"Automate what is repetitive, document what is important, and monitor what matters."
+
+![Profile Views](https://komarev.com/ghpvc/?username=varshaghanghas&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/varshaghanghas?label=Follow&style=social)](https://github.com/varshaghanghas)
+
+</div>
